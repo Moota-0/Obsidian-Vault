@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Software",
+      "path": "Current/Software.md"
+    },
+    {
+      "type": "file",
+      "title": "Technical help",
+      "path": "Current/Technical help.md"
+    },
+    {
+      "type": "file",
+      "title": "TODO",
+      "path": "Current/TODO.md"
+    }
+  ]
+}

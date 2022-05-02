@@ -1,6 +1,20 @@
 [AlternativeTo.net](https://alternativeto.net/)
 
-### Musique
+## Gaming
+### Jeux
+[2048: App Reviews, Features, Pricing & Download | AlternativeTo](https://alternativeto.net/software/2048-by-gabriele-cirulli/about/)
+### Outils
+[Cheat Engine | AlternativeTo](https://alternativeto.net/software/cheat-engine/about/)
+[Dolphin Emulator: App Reviews, Features, Pricing & Download | AlternativeTo](https://alternativeto.net/software/dolphin-emulator/about/)
+
+## Dev
+[Lua: App Reviews, Features, Pricing & Download | AlternativeTo](https://alternativeto.net/software/lua/about/)
+[LÖVE: App Reviews, Features, Pricing & Download | AlternativeTo](https://alternativeto.net/software/love2d/about/)
+
+[OpenGL: App Reviews, Features, Pricing & Download | AlternativeTo](https://alternativeto.net/software/opengl/about/)
+
+
+## Musique
 #### Strawberry
 [Strawberry: App Reviews, Features, Pricing & Download | AlternativeTo](https://alternativeto.net/software/strawberry/about/)
 [Add Discord Rich Presence support? · Issue #109 · strawberrymusicplayer/strawberry · GitHub](https://github.com/strawberrymusicplayer/strawberry/issues/109)
@@ -16,7 +30,59 @@
 [Playlist Buddy](https://www.playlistbuddyapp.com/)
 [Smarter Playlists](http://smarterplaylists.playlistmachinery.com/index.html)
 [Last.fm](https://www.last.fm/)
+[Libre.fm: App Reviews, Features, Pricing & Download | AlternativeTo](https://alternativeto.net/software/librefm/about/)
 
-### Langage
+
+## Langage
 #### Japonais
 
+
+
+## Technique
+### Tools
+#### Android
+##### Customisation
+[Android - AlternativeTo.net](https://alternativeto.net/lists/singlelist/?listUrlName=android&listId=31581&edit=True)
+[aegis-icons – Unofficial 2FA entry icons for open source Android authenticator Aegis](https://aegis-icons.github.io/)
+[CandyCons Icon Pack: App Reviews, Features, Pricing & Download | AlternativeTo](https://alternativeto.net/software/candycons-icon-pack/about/)
+[CandyCons - Icon Pack – Applications sur Google Play](https://play.google.com/store/apps/details?id=com.zavukodlak.candycons)
+[vukashin](https://vukashin.xyz/)
+
+###### Trebuchet
+[Trebuchet: App Reviews, Features, Pricing & Download | AlternativeTo](https://alternativeto.net/software/trebuchet/about/)
+[Trebuchet 8.1.0.22 UNIVERSAL](http://www.mediafire.com/file/ozygcd568e1amct/Trebuchet_8.1.0.22_UNIVERSAL.apk/file)
+[[APP][PORT]LineageOS 15.1 Trebuchet (Laucher) for any ROM (ver. 8.1.0.22) | XDA Forums](https://forum.xda-developers.com/t/app-port-lineageos-15-1-trebuchet-laucher-for-any-rom-ver-8-1-0-22.3667436/)
+[Trebuchet 8.1.0.22 UNIVERSAL](http://www.mediafire.com/file/ozygcd568e1amct/Trebuchet_8.1.0.22_UNIVERSAL.apk/file)
+
+
+##### F-Droid
+[Aurora Droid: App Reviews, Features, Pricing & Download | AlternativeTo](https://alternativeto.net/software/aurora-droid/about/)
+[Fennec F-Droid : App Reviews, Features, Pricing & Download | AlternativeTo](https://alternativeto.net/software/fennec/about/)
+
+##### Keyboards
+[OpenBoard: App Reviews, Features, Pricing & Download | AlternativeTo](https://alternativeto.net/software/openboard-keyboard-/about/)
+
+##### File management
+[Team Amaze - Amaze File Manager](https://teamamaze.xyz/)
+[Amaze File Manager: App Reviews, Features, Pricing & Download | AlternativeTo](https://alternativeto.net/software/amaze-file-manager/about/)
+[GitHub - TeamAmaze/AmazeFileManager: Material design file manager for Android](https://github.com/TeamAmaze/AmazeFileManager)
+[Android Apps by Team Amaze on Google Play](https://play.google.com/store/apps/developer?id=Team+Amaze&hl=en_IN&gl=US)
+
+[Snapdrop: App Reviews, Features, Pricing & Download | AlternativeTo](https://alternativeto.net/software/snapdrop/about/)
+
+
+##### Mail
+[K-9 Mail: App Reviews, Features, Pricing & Download | AlternativeTo](https://alternativeto.net/software/k-9/about/)
+[ProtonMail Alternatives: 25+ Similar WebMail Providers | AlternativeTo](https://alternativeto.net/software/protonmail/)
+
+#### PC
+###### Documents reading
+[Document Viewer: App Reviews, Features, Pricing & Download | AlternativeTo](https://alternativeto.net/software/document-viewer/about/)
+
+###### Image
+[ImageGlass - A lightweight, versatile image viewer](https://imageglass.org/)
+
+[Caesium Image Compressor: App Reviews, Features, Pricing & Download | AlternativeTo](https://alternativeto.net/software/caesium/about/)
+
+###### Search engines
+[DuckDuckGo Privacy Browser: App Reviews, Features, Pricing & Download | AlternativeTo](https://alternativeto.net/software/duckduckgo-privacy-browser/about/)

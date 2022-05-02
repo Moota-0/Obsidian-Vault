@@ -8,23 +8,10 @@
         "type": "split",
         "children": [
           {
-            "id": "2258470abc27a495",
+            "id": "1ce1ac6a8bcfb63e",
             "type": "split",
+            "dimension": 26.35032811711257,
             "children": [
-              {
-                "id": "144d1b17e85c5ba6",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Current/Software.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true
-                }
-              },
               {
                 "id": "94f721c466ddd221",
                 "type": "leaf",
@@ -38,6 +25,20 @@
                   },
                   "pinned": true
                 }
+              },
+              {
+                "id": "144d1b17e85c5ba6",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Current/Software.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
               }
             ],
             "direction": "horizontal"
@@ -45,19 +46,33 @@
           {
             "id": "6e0fbe9fdcf896e5",
             "type": "leaf",
+            "dimension": 40.43412417970722,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2022-04-30.md",
+                "file": "Current/Software.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
           {
-            "id": "e30c10228bd529c7",
+            "id": "055dc67d244219fe",
             "type": "split",
+            "dimension": 33.215547703180206,
             "children": [
+              {
+                "id": "b7990912fcb16932",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Daily/2022-05-02.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
               {
                 "id": "1e288c3cfc490be0",
                 "type": "leaf",
@@ -66,20 +81,6 @@
                   "type": "markdown",
                   "state": {
                     "file": "Daily/2022-04-28.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true
-                }
-              },
-              {
-                "id": "b54edf27b75f9d78",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Daily/2022-05-02.md",
                     "mode": "source",
                     "source": false
                   },
@@ -160,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Current/TODO.md",
+                "file": "Current/Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,33 +171,38 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "0a30438cdb707a11",
+        "type": "tabs",
+        "children": [
           {
-            "id": "7b68f7234ccb0194",
+            "id": "9e1e366a77a0a76b",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 284
   },
-  "active": "94f721c466ddd221",
+  "active": "6e0fbe9fdcf896e5",
   "lastOpenFiles": [
-    "Current/TODO.md",
     "Current/Software.md",
-    "Daily/2022-04-30.md",
     "Daily/2022-05-02.md",
     "Daily/2022-04-28.md",
+    "Current/TODO.md",
     "Current/Technical help.md",
-    "Untitled 1.md",
-    "2022-05-03.md",
-    "Current/Productivity.md",
-    "Memes/Bagare.md"
+    "Daily/2022-05-01.md",
+    "Daily/2022-04-30.md",
+    "Daily/2022-04-27.md",
+    "Daily/2022-04-29.md",
+    "Template/Monthly Template.md"
   ]
 }

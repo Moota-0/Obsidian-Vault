@@ -1,8 +1,8 @@
 [
-  "calendar",
   "periodic-notes",
   "obsidian-kanban",
   "better-word-count",
   "hotkey-helper",
-  "obsidian-git"
+  "obsidian-git",
+  "calendar"
 ]
