@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "100d8027dc486c61",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a1942c6109211d8",
+        "type": "split",
+        "children": [
+          {
+            "id": "2258470abc27a495",
+            "type": "split",
+            "children": [
+              {
+                "id": "144d1b17e85c5ba6",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Current/Software.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "94f721c466ddd221",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Current/TODO.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "6e0fbe9fdcf896e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2022-04-30.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e30c10228bd529c7",
+            "type": "split",
+            "children": [
+              {
+                "id": "1e288c3cfc490be0",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Daily/2022-04-28.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "b54edf27b75f9d78",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Daily/2022-05-02.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3ec6131cc74009db",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d93d4bb06ae40e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e982a9cd963ea5e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9848c49d31885483",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "alterna",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "95d33879d7fc2352",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "910efaa3f9abd3b7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 219
+  },
+  "right": {
+    "id": "43ce21fc4d317060",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e25354f0614531a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc5719fe58e3a716",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Current/Software.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7b68f7234ccb0194",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "144d1b17e85c5ba6",
+  "lastOpenFiles": [
+    "Current/Software.md",
+    "Daily/2022-04-28.md",
+    "Current/TODO.md",
+    "Daily/2022-04-30.md",
+    "Daily/2022-05-02.md",
+    "Current/Technical help.md",
+    "Untitled 1.md",
+    "2022-05-03.md",
+    "Current/Productivity.md",
+    "Memes/Bagare.md"
+  ]
+}

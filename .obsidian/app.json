@@ -1,0 +1,14 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "/",
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "fr",
+    "en-GB"
+  ],
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true
+}
