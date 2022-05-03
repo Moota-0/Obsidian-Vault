@@ -118,7 +118,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "alterna",
+                "query": "bourse",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,8 +152,24 @@
     "type": "split",
     "children": [
       {
+        "id": "2f1dc729706651f0",
+        "type": "tabs",
+        "dimension": 75.81120943952803,
+        "children": [
+          {
+            "id": "9e1e366a77a0a76b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "3e25354f0614531a",
         "type": "tabs",
+        "dimension": 24.188790560471976,
         "children": [
           {
             "id": "cc5719fe58e3a716",
@@ -173,20 +189,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "0a30438cdb707a11",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9e1e366a77a0a76b",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -196,10 +198,10 @@
   "lastOpenFiles": [
     "Current/Software.md",
     "Daily/2022-05-02.md",
+    "Daily/2022-05-01.md",
     "Daily/2022-04-28.md",
     "Current/TODO.md",
     "Current/Technical help.md",
-    "Daily/2022-05-01.md",
     "Daily/2022-04-30.md",
     "Daily/2022-04-27.md",
     "Daily/2022-04-29.md",
