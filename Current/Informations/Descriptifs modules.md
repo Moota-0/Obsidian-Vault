@@ -224,9 +224,30 @@ informatique (A)
 l’information (C)
 - Appliquer des techniques cryptographiques adaptées (A)
 - Appliquer des contre-mesures adaptées (A)
-## Branche
+## Réseaux
+- Expliquer la structure en couches des protocoles de communication.  
+- Décrire les protocoles principaux des réseaux locaux et d’Internet.  
+- Enoncer les composants des réseaux informatiques ainsi que leur rôle.  
+- Concevoir un réseau simple et le documenter  
+- Configurer le protocole Internet sur un poste de travail au sein d’un sous-réseau donné  
+- Dépanner des problèmes courants dans un réseau local.  
+- Concevoir et réaliser un protocole applicatif à travers un réseau
 
 ### Description du contenu
+- Les besoins des utilisateurs et l’interopérabilité des protocoles  
+- Les standards et modèles, dont le modèle en couche OSI  
+- Eléments de base de transmission et de codage en couche physique  
+- Notions de couche de présentation, notamment les codages des caractères  
+- Les réseaux locaux et les composants des réseaux  
+- Le protocole de couche réseau IP et les protocoles de couche transport TCP et UDP  
+- L’analyse des protocoles et le dépannage  
+- Les protocoles des couches supérieures (DNS, SMTP et HTTP)  
+- Notions de base de sécurité et fiabilité liées au réseau  
+- Laboratoires  
+- Analyse, conception et codage d’un protocole simple  
+- Sujets additionnels (sous réserve de temps)  
+	- Ethernet industriel  
+	- Outils de gestion et de surveillance
 ### Bibliographie
-
+- polycopié Réseaux ISBN 9782-940387-07-6
 # 2ème

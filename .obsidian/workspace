@@ -4,41 +4,62 @@
     "type": "split",
     "children": [
       {
-        "id": "a7fb3ffe19d194a3",
+        "id": "48e80f8ed0f64920",
         "type": "split",
         "children": [
           {
+            "id": "75e4ce7bcece9796",
+            "type": "split",
+            "dimension": 39.08629441624365,
+            "children": [
+              {
+                "id": "ac68573ec42250ea",
+                "type": "leaf",
+                "dimension": 72.71487039563438,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Current/Informations/Sketch Descriptifs module.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "d1472970a95042ae",
+                "type": "leaf",
+                "dimension": 27.285129604365622,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Current/Informations/notes générales.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
             "id": "b18ea5fad2248237",
             "type": "leaf",
-            "dimension": 47.71048744460857,
+            "dimension": 20.304568527918782,
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Current/Informations/Descriptifs modules.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "pinned": true
             }
           },
           {
-            "id": "f8bf4bee052aa2b1",
-            "type": "leaf",
-            "dimension": 22.156573116691288,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Current/Informations/Schémas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b7990912fcb16932",
             "type": "leaf",
-            "dimension": 30.132939438700145,
+            "dimension": 20.304568527918782,
             "pinned": true,
             "state": {
               "type": "markdown",
@@ -48,6 +69,19 @@
                 "source": true
               },
               "pinned": true
+            }
+          },
+          {
+            "id": "f8bf4bee052aa2b1",
+            "type": "leaf",
+            "dimension": 20.304568527918782,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Current/Informations/Schémas.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -137,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Current/Informations/Descriptifs modules.md",
+                "file": "Current/Informations/Sketch Descriptifs module.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,19 +186,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 100
   },
-  "active": "b18ea5fad2248237",
+  "active": "ac68573ec42250ea",
   "lastOpenFiles": [
+    "Current/Informations/Sketch Descriptifs module.md",
+    "Current/Informations/notes générales.md",
     "Current/Informations/Descriptifs modules.md",
-    "Current/sketch.md",
     "Current/Informations/Schémas.md",
-    "Daily/2022-05-03.md",
-    "Daily/2022-04-28.md",
-    "Current/Software.md",
-    "Current/Technical help.md",
+    "Current/sketch.md",
+    "Daily/2022-05-04.md",
     "Current/TODO.md",
-    "Daily/2022-05-02.md",
-    "Daily/2022-05-01.md"
+    "Current/Technical help.md",
+    "Current/Software.md",
+    "Daily/2022-04-30.md"
   ]
 }
