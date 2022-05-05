@@ -25,7 +25,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Current/Cours/C++/Structures.md",
+            "file": "Current/Software.md",
             "mode": "preview",
             "source": false
           }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Current/Cours/C++/Structures.md",
+                "file": "Current/Cours/C++/- Table des matières.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,17 +135,17 @@
     "width": 356,
     "collapsed": true
   },
-  "active": "132a71bffb8854a8",
+  "active": "47d0cb968ea62ec8",
   "lastOpenFiles": [
-    "Current/Cours/C++/Structures.md",
     "Current/Cours/C++/- Table des matières.md",
-    "Divers.md",
-    "Current/Cours/C++/Passage de paramètres & valeurs par défaut.md",
-    "Current/Cours/C++/Namespaces.md",
-    "Current/Cours/C++/IO Standard.md",
-    "Current/Cours/C++/Fonctions inline.md",
-    "Current/Cours/C++/Classe string.md",
-    "Current/Cours/C++/Allocation dynamique de la mémoire.md",
-    "Current/Cours/C++/Surcharge des fonctions.md"
+    "Current/Software.md",
+    "Current/Technical help.md",
+    "Current/sketch.md",
+    "Current/Informations/Schémas.md",
+    "Current/Informations/notes générales.md",
+    "Current/Informations/Descriptifs modules.md",
+    "Current/Cours/A rattraper.md",
+    "Current/Cours/C++/Structures.md",
+    "Divers.md"
   ]
 }
