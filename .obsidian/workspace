@@ -4,31 +4,54 @@
     "type": "split",
     "children": [
       {
-        "id": "47d0cb968ea62ec8",
+        "id": "13f9e2dd8488e84e",
+        "type": "split",
+        "dimension": 53.103448275862064,
+        "children": [
+          {
+            "id": "47d0cb968ea62ec8",
+            "type": "leaf",
+            "dimension": 25.100401606425706,
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Current/Cours/C++/- Table des matières.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f467e58e11912d68",
+            "type": "leaf",
+            "dimension": 74.8995983935743,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classe et objet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "c0732fd9a8913b75",
         "type": "leaf",
-        "dimension": 23.982102908277405,
+        "dimension": 46.89655172413793,
         "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Current/Cours/C++/- Table des matières.md",
+            "file": "Current/Cours/C++/PDFs.md",
             "mode": "source",
             "source": false
           },
           "pinned": true
-        }
-      },
-      {
-        "id": "132a71bffb8854a8",
-        "type": "leaf",
-        "dimension": 76.0178970917226,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Current/Software.md",
-            "mode": "preview",
-            "source": false
-          }
         }
       }
     ],
@@ -117,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Current/Cours/C++/- Table des matières.md",
+                "file": "Classe et objet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,17 +158,17 @@
     "width": 356,
     "collapsed": true
   },
-  "active": "47d0cb968ea62ec8",
+  "active": "f467e58e11912d68",
   "lastOpenFiles": [
+    "Classe et objet.md",
+    "Current/Cours/C++/PDFs.md",
     "Current/Cours/C++/- Table des matières.md",
+    "Current/Cours/C++/Paradigme de programmation.md",
+    "Current/Cours/C++/Divers.md",
     "Current/Software.md",
     "Current/Technical help.md",
     "Current/sketch.md",
     "Current/Informations/Schémas.md",
-    "Current/Informations/notes générales.md",
-    "Current/Informations/Descriptifs modules.md",
-    "Current/Cours/A rattraper.md",
-    "Current/Cours/C++/Structures.md",
-    "Divers.md"
+    "Current/Informations/notes générales.md"
   ]
 }

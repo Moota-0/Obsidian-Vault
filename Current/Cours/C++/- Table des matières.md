@@ -1,3 +1,4 @@
+[[PDFs]]
 # Notions :
 [[Namespaces]]
 [[IO Standard]]
@@ -9,8 +10,7 @@
 [[Structures]]
 [[Divers]]
 
-![[Chapitre 2.pdf]]
-
-![[Chapitre 3.pdf]]
-
-![[Chapitre 4.pdf]]
+[[Paradigme de programmation]]
+[[Classe et objet]]
+[[Exemple de programme en C++]]
+[[Les caractéristiques d’un objet]]
