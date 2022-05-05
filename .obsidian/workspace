@@ -103,6 +103,14 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "858f87795315f9cb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ]
       },
@@ -132,8 +140,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356,
-    "collapsed": true
+    "width": 356
   },
   "active": "132a71bffb8854a8",
   "lastOpenFiles": [
