@@ -1,0 +1,1 @@
+![[SecPratique-2022-1 slides.pdf]]

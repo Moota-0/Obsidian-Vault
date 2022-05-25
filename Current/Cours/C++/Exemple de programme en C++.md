@@ -4,5 +4,15 @@ Définition de la classe Point
 ```cpp
 #include <iostream>
 class Point 
-{ public: void init(int, int); void translate(int, int); void print() { std::cout<<"("<
+{
+	public: 
+		void init(int, int);
+		void translate(int, int); 
+		void print() 
+		{ 
+		std::cout <<"("<<x<<","<<y<< ")";
+		}
+		int x;
+		int y;
+};
 ```

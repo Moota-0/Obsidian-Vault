@@ -123,5 +123,7 @@
     }
   ],
   "app:open-settings": [],
-  "editor:save-file": []
+  "editor:save-file": [],
+  "obsidian-excalidraw-plugin:insert-link-to-element": [],
+  "obsidian-excalidraw-plugin:insert-link": []
 }
